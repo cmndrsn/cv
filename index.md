@@ -12,7 +12,7 @@ PhD Candidate @ MAPLE Lab in McMaster University
   <a href="https://github.com/cmndrsn"><i class="fa-brands fa-github"></i> cmndrsn</a> - 
   <a href="https://orcid.org/0000-0002-8737-2055"><i class="fa-brands fa-orcid"></i> 0000-0002-8737-2055</a> - 
   <a href="https://www.linkedin.com/in/cmndrsn/"><i class="fa-brands fa-linkedin"></i> cmndrsn</a> - 
-  <a href="https://bsky.app/profile/camandrsn"><i class="fa-brands fa-bluesky"></i> @camandrsn</a>
+  <a href="https://camandrsn.bsky.social"><i class="fa-brands fa-bluesky"></i> @camandrsn</a>
 </div>
 
 
