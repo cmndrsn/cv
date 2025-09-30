@@ -5,7 +5,7 @@ title: Curriculum Vitae
 # Cameron J Anderson
 PhD Candidate @ MAPLE Lab in McMaster University
 
-<a href="andersoc@mcmaster.ca"><i class="fa-solid fa-envelope"></i> andersoc@mcmaster.ca</a> - <i class="fa-solid fa-phone"></i> +1 705 500 5770
+<a href="andersoc@mcmaster.ca"><i class="fa-solid fa-envelope"></i> andersoc@mcmaster.ca</a> 
 
 <div id="webaddress">
   <a href="https://cameronanderson.ca"><i class="fa-solid fa-house"></i> cameronanderson.ca</a> - 
