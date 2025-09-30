@@ -158,7 +158,7 @@ Courses: Music Theory & Analysis; Practical Musicianship.
 
 `2023-Present` __Co-organizer__, Composer Connects 
 
-Co-organied local master-class and music performance workshop.
+Co-organized local master-class and music performance workshop.
 
 `2022-2023` __Co-chair__, MIMMersion committee
 
