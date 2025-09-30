@@ -132,6 +132,8 @@ These presentations involved equal contributions from all authors.
 
 **Anderson C. J.**, & Schutz M. (2025). ggcommonality: Bar Plot of Commonality Analysis Coefficients in ggplot2. R package version 1.1.2. https://github.com/cmndrsn/ggcommonality.
 
+<div style="page-break-after: always;"></div>
+
 ## Positions
 
 `2019-2025`
