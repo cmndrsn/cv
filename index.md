@@ -5,14 +5,13 @@ title: Curriculum Vitae
 # Cameron J Anderson
 PhD Candidate @ MAPLE Lab in McMaster University
 
-<a href="andersoc@mcmaster.ca"><i class="fa-solid fa-envelope"></i> andersoc@mcmaster.ca</a> 
-
 <div id="webaddress">
   <a href="https://cameronanderson.ca"><i class="fa-solid fa-house"></i> cameronanderson.ca</a> - 
   <a href="https://github.com/cmndrsn"><i class="fa-brands fa-github"></i> cmndrsn</a> - 
   <a href="https://orcid.org/0000-0002-8737-2055"><i class="fa-brands fa-orcid"></i> 0000-0002-8737-2055</a> - 
   <a href="https://www.linkedin.com/in/cmndrsn/"><i class="fa-brands fa-linkedin"></i> cmndrsn</a> - 
   <a href="https://camandrsn.bsky.social"><i class="fa-brands fa-bluesky"></i> @camandrsn</a>
+  <a href="mailto:andersoc@mcmaster.ca"><i class="fa-solid fa-envelope"></i> andersoc@mcmaster.ca</a> 
 </div>
 
 
@@ -49,14 +48,14 @@ __Bachelor of Music.__ McMaster University, Hamilton ON.
 
 Funded project: Tracing Historic Changes in Emotional Communication Through Music
 
-Applying statistical methods to understand perceived emotion in different eras of common-practice classical music.
+Applying statistical methods to analyze perceived emotions in response to music from different historic periods.
 
 `2024`
 **Globalink Research Award** Awarded by Mitacs and the British High Commission. Value: 6,000 CAD.
 
 Funded project: Evaluating Algorithmic Prediction of Emotion in Music.
 
-Traveled to Durham University, UK to conduct meta-analysis in collaboration with Dr. Tuomas Eerola.
+Conducted meta-analysis of Music Emotion Recognition studies in collaboration with Dr. Tuomas Eerola at Durham University, UK.
 
 `2023-2024`
 **Ontario Graduate Scholarship**. Funded by the Government of Ontario as well as Margo Wilson & Martin Daly OGS. Value: 15,000 CAD.
@@ -76,7 +75,9 @@ Also available on <a href="https://scholar.google.com/citations?user=_HmS4aQAAAA
 
 ### Journal Articles
 
-Delle Grazie, M.,† *Anderson, C. J.*†, De Souza, J., & Schutz, M. (in press). Analysis from multiple perspectives (AMP): Applying decision hygiene to analysis of musical structure. *Musicae Scientiae*
+† Equal contribution
+
+Delle Grazie, M.,† *Anderson, C. J.*,† De Souza, J., & Schutz, M. (in press). Analysis from multiple perspectives (AMP): Applying decision hygiene to analysis of musical structure. *Musicae Scientiae*
 
 *Anderson, C. J.*, Ling, J., & Schutz, M. (2025). Beyond the notes: Clarifying the role of expressivity in conveying musical emotion. *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251372335
 
