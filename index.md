@@ -5,7 +5,7 @@ title: Curriculum Vitae
 # Cameron J Anderson
 PhD Candidate @ MAPLE Lab in McMaster University
 
-<a href="andersoc@mcmaster.ca">andersoc@mcmaster.ca</a> - +1 705 500 5770
+<a href="andersoc@mcmaster.ca"><i class="fa-solid fa-envelope"></i>andersoc@mcmaster.ca</a> - <i class="fa-solid fa-phone"></i>+1 705 500 5770
 
 <div id="webaddress">
   <a href="https://cameronanderson.ca"><i class="fa-solid fa-house"></i> cameronanderson.ca</a> - 
@@ -70,7 +70,7 @@ Traveled to Durham University, UK to conduct meta-analysis in collaboration with
 
 ## Publications
 
-Also available on <a href="https://scholar.google.com/citations?user=_HmS4aQAAAAJ&hl=en&oi=ao"><i class="fa-brands fa-google-scholar"></i>.
+Also available on <a href="https://scholar.google.com/citations?user=_HmS4aQAAAAJ&hl=en&oi=ao"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a>.
 
 ### Journal Articles
 
