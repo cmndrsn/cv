@@ -82,55 +82,55 @@ Also available on <a href="https://scholar.google.com/citations?user=_HmS4aQAAAA
 
 † Equal contribution
 
-Delle Grazie, M.,† *Anderson, C. J.*,† De Souza, J., & Schutz, M. (in press). Analysis from multiple perspectives (AMP): Applying decision hygiene to analysis of musical structure. *Musicae Scientiae*
+Delle Grazie, M.,† **Anderson, C. J.**,† De Souza, J., & Schutz, M. (in press). Analysis from multiple perspectives (AMP): Applying decision hygiene to analysis of musical structure. *Musicae Scientiae*
 
-*Anderson, C. J.*, Ling, J., & Schutz, M. (2025). Beyond the notes: Clarifying the role of expressivity in conveying musical emotion. *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251372335
+**Anderson, C. J.**, Ling, J., & Schutz, M. (2025). Beyond the notes: Clarifying the role of expressivity in conveying musical emotion. *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251372335
 
-Delle Grazie, M., *Anderson, C. J.*, & Schutz, M. (2025). Breaking with common practice: Exploring Modernist musical emotion. _Psychology of Music_. https://doi.org/10.1177/03057356241296852
+Delle Grazie, M., **Anderson, C. J.**, & Schutz, M. (2025). Breaking with common practice: Exploring Modernist musical emotion. _Psychology of Music_. https://doi.org/10.1177/03057356241296852
 
-*Anderson, C. J.*, & Schutz, M. (2023). Understanding Feature Importance in Musical Works: Unpacking Predictive Contributions to Cluster Analyses. _Music & Science_, 6. https://doi.org/10.1177/20592043231216257
+**Anderson, C. J.**, & Schutz, M. (2023). Understanding Feature Importance in Musical Works: Unpacking Predictive Contributions to Cluster Analyses. _Music & Science_, 6. https://doi.org/10.1177/20592043231216257
 
-*Anderson, C. J.*, Sreetharan, S., Elizondo López, A. E., Schlesinger, J. J., & Schutz, M. (2023). Improving auditory alarms: Reducing perceived annoyance with musical timbre (a randomized trial). _Perioperative Care and Operating Room Management_, 32. https://doi.org/10.1016/j.pcorm.2023.100332
+**Anderson, C. J.**, Sreetharan, S., Elizondo López, A. E., Schlesinger, J. J., & Schutz, M. (2023). Improving auditory alarms: Reducing perceived annoyance with musical timbre (a randomized trial). _Perioperative Care and Operating Room Management_, 32. https://doi.org/10.1016/j.pcorm.2023.100332
 
-*Anderson, C. J.*, & Schutz, M. (2022). Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin. _Psychology of Music_, 50(5), 1424–1442. https://doi.org/10.1177/03057356211046375
+**Anderson, C. J.**, & Schutz, M. (2022). Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin. _Psychology of Music_, 50(5), 1424–1442. https://doi.org/10.1177/03057356211046375
 
-Kelly, B. O., *Anderson, C. J.*, & Schutz, M. (2021). Exploring Changes in the Emotional Classification of Music Between Eras. _Auditory Perception & Cognition_, 4(1-2), 121-131.
+Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). Exploring Changes in the Emotional Classification of Music Between Eras. _Auditory Perception & Cognition_, 4(1-2), 121-131.
 
-Foley, L., *Anderson, C. J.*, & Schutz, M. (2020). Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights. _Healthcare_, 8(4), 389.
+Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights. _Healthcare_, 8(4), 389.
 
 ### Proceedings & Preprints
 
-Zhou, J., *Anderson, C. J.*, & Schutz, M., (2023, October). Accuracies in algorthimic predictors of musical emotion. _Acoustics Canada_, 51 (3).
+Zhou, J., **Anderson, C. J.**, & Schutz, M., (2023, October). Accuracies in algorthimic predictors of musical emotion. _Acoustics Canada_, 51 (3).
 
-Eerola, T., & _Anderson, C. J._, (2025, April 15). A Meta-Analysis of Music Emotion Recognition Studies. https://doi.org/10.31234/osf.io/5azc9_v1
+Eerola, T., & **Anderson, C. J.**, (2025, April 15). A Meta-Analysis of Music Emotion Recognition Studies. https://doi.org/10.31234/osf.io/5azc9_v1
 
-Kirts, C., Saarikallio, S., _Anderson, C. J._, Bannister, S., Cespedes-Guevara, J., PhD, Heng, G. J., … Eerola, T. (2025, July 15). Measuring Emotional Experiences to Music – Content Validity Assessment for Episode Model Constructs. 
+Kirts, C., Saarikallio, S., **Anderson, C. J.**, Bannister, S., Cespedes-Guevara, J., PhD, Heng, G. J., … Eerola, T. (2025, July 15). Measuring Emotional Experiences to Music – Content Validity Assessment for Episode Model Constructs. 
 
 ## Selected Presentations
 
-_Anderson, C. J._ & Schutz, M. (2025, July). Emotion Across the Eras: How Changing Musical Structure Affects Ratings of Valence, 18th International Conference on Music Perception and Cognition, São Paulo, Brazil. 
+**Anderson, C. J.** & Schutz, M. (2025, July). Emotion Across the Eras: How Changing Musical Structure Affects Ratings of Valence, 18th International Conference on Music Perception and Cognition, São Paulo, Brazil. 
 
-_Anderson, C. J._ & Eerola, T. (2025, July). A Meta-Analysis of Music Emotion Recognition Studies. 18th International Conference on Music Perception and Cognition, São Paulo, Brazil. _
+**Anderson, C. J.** & Eerola, T. (2025, July). A Meta-Analysis of Music Emotion Recognition Studies. 18th International Conference on Music Perception and Cognition, São Paulo, Brazil. _
 
-_Anderson, C. J._, Delle Grazie, M., & Schutz, M. (2024, July). Unpacking Structural and Interpretive Cues for Emotion in Piano Performances. Society for Music Perception and Cognition. Banff, Canada. 
+**Anderson, C. J.**, Delle Grazie, M., & Schutz, M. (2024, July). Unpacking Structural and Interpretive Cues for Emotion in Piano Performances. Society for Music Perception and Cognition. Banff, Canada. 
 
-_Anderson, C. J._, Ling, J., & Schutz, M. (2024, July). Unpacking Structural and Interpretive Cues for Emotion in Piano Performances. European Society for Cognitive Sciences of Music, York, UK. 
+**Anderson, C. J.**, Ling, J., & Schutz, M. (2024, July). Unpacking Structural and Interpretive Cues for Emotion in Piano Performances. European Society for Cognitive Sciences of Music, York, UK. 
 
-_Anderson, C. J._, Ling, J., & Schutz, M. (2023, October). How Does Interpretation of Acoustic Features Affect Perceived Musical Emotion? (Talk). Presented at Acoustics Week in Canada. Montreal, Quebec. 
+**Anderson, C. J.**, Ling, J., & Schutz, M. (2023, October). How Does Interpretation of Acoustic Features Affect Perceived Musical Emotion? (Talk). Presented at Acoustics Week in Canada. Montreal, Quebec. 
 
-_Anderson, C. J._, & Schutz, M. (2023, March). Investigating the Impact of Musical Experience on Perceived Emotion (Talk). Presented at York Graduate Music Student Association Presents: Forward Motion, York University. Toronto, Ontario. 
+**Anderson, C. J.**, & Schutz, M. (2023, March). Investigating the Impact of Musical Experience on Perceived Emotion (Talk). Presented at York Graduate Music Student Association Presents: Forward Motion, York University. Toronto, Ontario. 
 
 ## Outreach presentatations
 
 These presentations involved equal contributions from all authors.
 
-_Anderson, C. J._, Phillips, E., Swierczek, K., & Wood, E. (2022, May 7). Meet a Music Scientist (Digital Workshop). Digital workshop for McMaster Live Lab. Hamilton, Canada. 
+**Anderson, C. J.**, Phillips, E., Swierczek, K., & Wood, E. (2022, May 7). Meet a Music Scientist (Digital Workshop). Digital workshop for McMaster Live Lab. Hamilton, Canada. 
 
-_Anderson, C. J._, Ertemin, D., Morgan, B., & Propst, A. (2022, May 4). Towards More Meaningful Science Communication with the Benefit of Digital Scholarship (Digital Workshop). Workshop at Lewis & Ruth Sherman Centre for Digital Scholarship. Hamilton, Canada.
+**Anderson, C. J.**, Ertemin, D., Morgan, B., & Propst, A. (2022, May 4). Towards More Meaningful Science Communication with the Benefit of Digital Scholarship (Digital Workshop). Workshop at Lewis & Ruth Sherman Centre for Digital Scholarship. Hamilton, Canada.
 
 ## Software packages
 
-_Anderson C. J._, & Schutz M. (2025). ggcommonality: Bar Plot of Commonality Analysis Coefficients in ggplot2. R package version 1.1.2. https://github.com/cmndrsn/ggcommonality.
+**Anderson C. J.**, & Schutz M. (2025). ggcommonality: Bar Plot of Commonality Analysis Coefficients in ggplot2. R package version 1.1.2. https://github.com/cmndrsn/ggcommonality.
 
 ## Positions
 
