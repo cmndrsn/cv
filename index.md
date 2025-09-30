@@ -46,22 +46,27 @@ __Bachelor of Music.__ McMaster University, Hamilton ON.
 `2024-2026`
 **SSHRC Doctoral Fellowship**. Awarded by the Social Sciences and Humanities Research Council of Canada. Value: 80,000 CAD.
 
-Funded project: Tracing Historic Changes in Emotional Communication Through Music
+Funded project: Tracing Historic Changes in Emotional Communication Through Music. Supervisor: Dr. Michael Schutz.
 
-Applying statistical methods to analyze perceived emotions in response to music from different historic periods.
+Applying statistical methods to analyze perceived emotions in response to music from different historic periods. 
 
 `2024`
 **Globalink Research Award** Awarded by Mitacs and the British High Commission. Value: 6,000 CAD.
 
-Funded project: Evaluating Algorithmic Prediction of Emotion in Music.
+Funded project: Evaluating Algorithmic Prediction of Emotion in Music. Host supervisor: Dr. Tuomas Eerola.
 
-Conducted meta-analysis of Music Emotion Recognition studies in collaboration with Dr. Tuomas Eerola at Durham University, UK.
+Collaboarted in meta-analysis analyzing Music Emotion Recognition studies published between 2014-2024.
 
 `2023-2024`
 **Ontario Graduate Scholarship**. Funded by the Government of Ontario as well as Margo Wilson & Martin Daly OGS. Value: 15,000 CAD.
 
 `2021-2023`
 **Ontario Graduate Scholarship**. Funded by the Government of Ontario as well as Steven & Tina Wilson OGS. Value: 15,000 CAD (x 2).
+
+`2020-2021`
+**Joseph-Armand Bombardier Canada Graduate Scholarship**. Awarded by the Social Sciences and Humanities Research Council of Canada. Value: 17,500 CAD. 
+
+Funded project: Historic Changes in Musically Expressed Emotion. Supervisor: Dr. Michael Schutz.
 
 `2018, 2019`
 **Undergraduate Student Research Award**. Value: 6,000 CAD (x 2).
