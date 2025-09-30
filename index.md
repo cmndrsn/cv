@@ -139,7 +139,7 @@ These presentations involved equal contributions from all authors.
 `2019-2025`
 __Teaching Assistant__, Department of Psychology, Neuroscience & Behaviour, McMaster University, Hamilton, ON.
 
-Courses: Descriptive Statistics and Research Methods, Integrative PNB Through Scientific Writing, Statistics for Applied Psychology in Human Behaviour; Music Cognition; Human Evolution & Behaviour.
+Courses: Descriptive Statistics and Research Methods; Python for PNB; Integrative PNB Through Scientific Writing; Statistics for Applied Psychology in Human Behaviour; Music Cognition; Human Evolution & Behaviour.
 
 `2018-2024`
 __Writing Advisor__, Student Success Centre, McMaster University, Hamilton, ON.
