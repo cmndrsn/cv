@@ -55,7 +55,7 @@ Applying statistical methods to analyze perceived emotions in response to music 
 
 Funded project: Evaluating Algorithmic Prediction of Emotion in Music. Host supervisor: Dr. Tuomas Eerola.
 
-Collaboarted in meta-analysis analyzing Music Emotion Recognition studies published between 2014-2024.
+Collaborated in meta-analysis analyzing Music Emotion Recognition studies published between 2014-2024.
 
 `2023-2024`
 **Ontario Graduate Scholarship**. Funded by the Government of Ontario as well as Margo Wilson & Martin Daly OGS. Value: 15,000 CAD.
