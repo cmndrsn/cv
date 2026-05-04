@@ -79,7 +79,7 @@ Also available on <a href="https://scholar.google.com/citations?user=_HmS4aQAAAA
 
 ### Journal Articles
 
-Eerola, T., & Anderson, C. J. (2026). A Meta-Analysis of Music Emotion Recognition Studies. _ACM Computing Surveys, 58_(10), 1-22. https://doi.org/10.1145/3796518
+Eerola, T., & **Anderson, C. J.** (2026). A Meta-Analysis of Music Emotion Recognition Studies. _ACM Computing Surveys, 58_(10), 1-22. https://doi.org/10.1145/3796518
 
 Delle Grazie, M.,† **Anderson, C. J.**,† De Souza, J., & Schutz, M. (2026). Analysis from multiple perspectives (AMP): Applying decision hygiene to analysis of musical structure. *Musicae Scientiae, 30*(1), 27-50. https://doi.org/10.1177/10298649251385727
 
