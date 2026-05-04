@@ -151,7 +151,7 @@ Courses: Music Theory & Analysis; Practical Musicianship.
 
 ## Committee Roles
 
-`2023-Present` __Co-organizer__, Composer Connects 
+`2023-2024` __Co-organizer__, Composer Connects 
 
 Co-organized local master-class and music performance workshop.
 
@@ -165,6 +165,6 @@ Participated in search committee recruiting Director of the School of the Arts a
 
 ### Footer
 
-Last updated: September 2025
+Last updated: May 2026.
 
 
