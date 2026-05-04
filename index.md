@@ -10,7 +10,6 @@ PhD Candidate @ MAPLE Lab in McMaster University
   <a href="https://github.com/cmndrsn"><i class="fa-brands fa-github"></i> cmndrsn</a> - 
   <a href="https://orcid.org/0000-0002-8737-2055"><i class="fa-brands fa-orcid"></i> 0000-0002-8737-2055</a> - 
   <a href="https://www.linkedin.com/in/cmndrsn/"><i class="fa-brands fa-linkedin"></i> cmndrsn</a> - 
-  <a href="https://camandrsn.bsky.social"><i class="fa-brands fa-bluesky"></i> @camandrsn</a>
   <a href="mailto:andersoc@mcmaster.ca"><i class="fa-solid fa-envelope"></i> andersoc@mcmaster.ca</a> 
 </div>
 
@@ -80,11 +79,13 @@ Also available on <a href="https://scholar.google.com/citations?user=_HmS4aQAAAA
 
 ### Journal Articles
 
-† Equal contribution
+Eerola, T., & Anderson, C. J. (2026). A Meta-Analysis of Music Emotion Recognition Studies. _ACM Computing Surveys, 58_(10), 1-22. https://doi.org/10.1145/3796518
 
-Delle Grazie, M.,† **Anderson, C. J.**,† De Souza, J., & Schutz, M. (in press). Analysis from multiple perspectives (AMP): Applying decision hygiene to analysis of musical structure. *Musicae Scientiae*
+Delle Grazie, M.,† **Anderson, C. J.**,† De Souza, J., & Schutz, M. (2026). Analysis from multiple perspectives (AMP): Applying decision hygiene to analysis of musical structure. *Musicae Scientiae, 30*(1), 27-50. https://doi.org/10.1177/10298649251385727
 
-**Anderson, C. J.**, Ling, J., & Schutz, M. (2025). Beyond the notes: Clarifying the role of expressivity in conveying musical emotion. *Quarterly Journal of Experimental Psychology*. https://doi.org/10.1177/17470218251372335
+**Anderson, C. J.**, Ling, J., & Schutz, M. (2026). Beyond the notes: Clarifying the role of expressivity in conveying musical emotion. *Quarterly Journal of Experimental Psychology , 79*(4), 999-1012. https://doi.org/10.1177/17470218251372335
+
+Kirts, C., Saarikallio, S., **Anderson, C. J.**, Bannister, S., Céspedes-Guevara, J., Heng, G. J., Henry, N., Jakubowski, K., Koehler, F., Krause, A. E., Lennie, T. M., Martínez, I. C., O’Neill, K., Warrenburg, L., & Eerola, T. (2026). Measuring Emotional Experiences with Music: Content Validity Assessment for Episode Model Constructs. _Music & Science, 9_. https://doi.org/10.1177/20592043251413550
 
 Delle Grazie, M., **Anderson, C. J.**, & Schutz, M. (2025). Breaking with common practice: Exploring Modernist musical emotion. _Psychology of Music_. https://doi.org/10.1177/03057356241296852
 
@@ -92,19 +93,17 @@ Delle Grazie, M., **Anderson, C. J.**, & Schutz, M. (2025). Breaking with common
 
 **Anderson, C. J.**, Sreetharan, S., Elizondo López, A. E., Schlesinger, J. J., & Schutz, M. (2023). Improving auditory alarms: Reducing perceived annoyance with musical timbre (a randomized trial). _Perioperative Care and Operating Room Management_, 32. https://doi.org/10.1016/j.pcorm.2023.100332
 
-**Anderson, C. J.**, & Schutz, M. (2022). Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin. _Psychology of Music_, 50(5), 1424–1442. https://doi.org/10.1177/03057356211046375
+**Anderson, C. J.**, & Schutz, M. (2022). Exploring historic changes in musical communication: Deconstructing emotional cues in preludes by Bach and Chopin. _Psychology of Music, 50_(5), 1424–1442. https://doi.org/10.1177/03057356211046375
 
-Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). Exploring Changes in the Emotional Classification of Music Between Eras. _Auditory Perception & Cognition_, 4(1-2), 121-131.
+Kelly, B. O., **Anderson, C. J.**, & Schutz, M. (2021). Exploring Changes in the Emotional Classification of Music between Eras. *Auditory Perception & Cognition, 4*(1–2), 121–131. https://doi.org/10.1080/25742442.2021.1988422
 
-Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights. _Healthcare_, 8(4), 389.
+Foley, L., **Anderson, C. J.**, & Schutz, M. (2020). Re-Sounding Alarms: Designing Ergonomic Auditory Interfaces by Embracing Musical Insights. _Healthcare, 8_(4), 389. https://doi.org/10.3390/healthcare8040389 
 
-### Proceedings & Preprints
+### Proceedings
 
 Zhou, J., **Anderson, C. J.**, & Schutz, M., (2023, October). Accuracies in algorthimic predictors of musical emotion. _Acoustics Canada_, 51 (3).
 
-Eerola, T., & **Anderson, C. J.**, (2025, April 15). A Meta-Analysis of Music Emotion Recognition Studies. https://doi.org/10.31234/osf.io/5azc9_v1
-
-Kirts, C., Saarikallio, S., **Anderson, C. J.**, Bannister, S., Cespedes-Guevara, J., PhD, Heng, G. J., … Eerola, T. (2025, July 15). Measuring Emotional Experiences to Music – Content Validity Assessment for Episode Model Constructs. 
+†: Equal contribution
 
 ## Selected Presentations
 
@@ -127,10 +126,6 @@ These presentations involved equal contributions from all authors.
 **Anderson, C. J.**, Phillips, E., Swierczek, K., & Wood, E. (2022, May 7). Meet a Music Scientist (Digital Workshop). Digital workshop for McMaster Live Lab. Hamilton, Canada. 
 
 **Anderson, C. J.**, Ertemin, D., Morgan, B., & Propst, A. (2022, May 4). Towards More Meaningful Science Communication with the Benefit of Digital Scholarship (Digital Workshop). Workshop at Lewis & Ruth Sherman Centre for Digital Scholarship. Hamilton, Canada.
-
-## Software packages
-
-**Anderson C. J.**, & Schutz M. (2025). ggcommonality: Bar Plot of Commonality Analysis Coefficients in ggplot2. R package version 1.1.2. https://github.com/cmndrsn/ggcommonality.
 
 <div style="page-break-after: always;"></div>
 
