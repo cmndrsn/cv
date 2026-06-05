@@ -16,8 +16,7 @@ PhD Candidate @ MAPLE Lab in McMaster University
 
 ## Summary
 
-PhD candidate developing statistical methods to study how emotion perceived in music
-relates to its historic context and listeners’ musical experiences.
+PhD candidate applying statistical methods to study how music affects perceived emotion.
 
 Developing software applications to make findings from quantitative music analyses
 accessible to listeners.
